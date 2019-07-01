@@ -1,0 +1,6 @@
+Django >=2.2.2
+jsonfield==2.0.2
+mysqlclient
+openpyxl==2.6.2
+setuptools
+sqlparse
