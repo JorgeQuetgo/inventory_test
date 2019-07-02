@@ -7,6 +7,10 @@ A     | B     | C
 1     | 23    | 12.42
 12    | 43    | 23.4  
 
+A = serial number
+B = Quantity(stock)
+C = price
+
 En el archivo de escel solo van los datos sin encabezados.
 Cuando se carga el archivo se carga, se carga a la tabla inventario, si ya existe el serial number solo se aumenta la cantidad.
 
